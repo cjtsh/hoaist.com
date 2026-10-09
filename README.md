@@ -1,9 +1,12 @@
 # HOAist public home page
 
-This repository contains the public, static landing page for [hoaist.com](https://hoaist.com).
+Static, one-page site for [hoaist.com](https://hoaist.com), served by GitHub Pages from `main` / root. There is no build step.
 
-The HOAist application and private implementation remain in [cjtsh/hoaist](https://github.com/cjtsh/hoaist).
+- `index.html`: the page (SEO, Open Graph, JSON-LD)
+- `assets/site.css`: styles (mobile-first). Brand blue `#317A9D`, gold `#F2C94C`, Poppins + Inter (Google Fonts)
+- `assets/`: logo, mark, favicons, `og-image.png`, and the QR code for `https://wa.me/15618780275?text=Hi%20Par`
+- `CNAME`: the custom domain `hoaist.com`. Do not remove it.
 
-## GitHub Pages
+This repository is **public**. Only public-safe marketing assets belong here.
 
-Enable **Settings → Pages → Deploy from a branch**, select `main` and `/ (root)`. The included `CNAME` file configures the custom domain `hoaist.com`.
+TODO: public contact address, Privacy Policy, and Terms of Service pages (currently marked "coming soon").
