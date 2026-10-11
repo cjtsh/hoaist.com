@@ -197,3 +197,12 @@ footer .tm{font-size:.78rem;color:#8FA6B3}
   .fl{grid-template-columns:repeat(4,minmax(0,1fr))}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+/* legal pages */
+.legal{padding:2.5rem 0 3.5rem}
+.legal .wrap{max-width:780px}
+.legal h1{margin:.2rem 0 1rem}
+.legal h2{margin:1.8rem 0 .5rem;font-size:1.25rem}
+.legal ul,.legal ol{padding-left:1.3rem}
+.legal li{margin:.3rem 0}
+.legal a{color:var(--deep, #1f5570)}
+.legal-meta{font-size:.88rem;color:#5b6b75;background:#f3f7f9;border-left:3px solid #317A9D;padding:.6rem .8rem;border-radius:4px}
