@@ -9,4 +9,4 @@ Static, one-page site for [hoaist.com](https://hoaist.com), served by GitHub Pag
 
 This repository is **public**. Only public-safe marketing assets belong here.
 
-TODO: public contact address, Privacy Policy, and Terms of Service pages (currently marked "coming soon").
+Legal pages are published at [`/privacy/`](https://hoaist.com/privacy/), [`/terms/`](https://hoaist.com/terms/), [`/data-deletion/`](https://hoaist.com/data-deletion/), and [`/contact/`](https://hoaist.com/contact/). Source and asset rights are described in [`LICENSE`](LICENSE).
